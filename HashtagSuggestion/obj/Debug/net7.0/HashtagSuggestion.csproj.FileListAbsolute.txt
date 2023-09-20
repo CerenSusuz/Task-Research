@@ -1,0 +1,14 @@
+C:\Users\Ceren_Susuz\Documents\NET\Projects\HashtagSuggestion\HashtagSuggestion\bin\Debug\net7.0\HashtagSuggestion.exe
+C:\Users\Ceren_Susuz\Documents\NET\Projects\HashtagSuggestion\HashtagSuggestion\bin\Debug\net7.0\HashtagSuggestion.deps.json
+C:\Users\Ceren_Susuz\Documents\NET\Projects\HashtagSuggestion\HashtagSuggestion\bin\Debug\net7.0\HashtagSuggestion.runtimeconfig.json
+C:\Users\Ceren_Susuz\Documents\NET\Projects\HashtagSuggestion\HashtagSuggestion\bin\Debug\net7.0\HashtagSuggestion.dll
+C:\Users\Ceren_Susuz\Documents\NET\Projects\HashtagSuggestion\HashtagSuggestion\bin\Debug\net7.0\HashtagSuggestion.pdb
+C:\Users\Ceren_Susuz\Documents\NET\Projects\HashtagSuggestion\HashtagSuggestion\obj\Debug\net7.0\HashtagSuggestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ceren_Susuz\Documents\NET\Projects\HashtagSuggestion\HashtagSuggestion\obj\Debug\net7.0\HashtagSuggestion.AssemblyInfoInputs.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\HashtagSuggestion\HashtagSuggestion\obj\Debug\net7.0\HashtagSuggestion.AssemblyInfo.cs
+C:\Users\Ceren_Susuz\Documents\NET\Projects\HashtagSuggestion\HashtagSuggestion\obj\Debug\net7.0\HashtagSuggestion.csproj.CoreCompileInputs.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\HashtagSuggestion\HashtagSuggestion\obj\Debug\net7.0\HashtagSuggestion.dll
+C:\Users\Ceren_Susuz\Documents\NET\Projects\HashtagSuggestion\HashtagSuggestion\obj\Debug\net7.0\refint\HashtagSuggestion.dll
+C:\Users\Ceren_Susuz\Documents\NET\Projects\HashtagSuggestion\HashtagSuggestion\obj\Debug\net7.0\HashtagSuggestion.pdb
+C:\Users\Ceren_Susuz\Documents\NET\Projects\HashtagSuggestion\HashtagSuggestion\obj\Debug\net7.0\HashtagSuggestion.genruntimeconfig.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\HashtagSuggestion\HashtagSuggestion\obj\Debug\net7.0\ref\HashtagSuggestion.dll
